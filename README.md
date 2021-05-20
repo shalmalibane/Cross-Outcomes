@@ -1,6 +1,5 @@
 # Cross-Outcomes
-**Subsequent risk of stillbirth, preterm birth, and small for gestational age: A cross-outcomes analysis of adverse birth outcomes in California from 1997-2011
-**
+**Subsequent risk of stillbirth, preterm birth, and small for gestational age: A cross-outcomes analysis of adverse birth outcomes in California from 1997-2011**
 Authors: Shalmali Bane, Julia Simard, Elizabeth Wall-Wieler, Suzan Carmichael
 
 **Abstract **

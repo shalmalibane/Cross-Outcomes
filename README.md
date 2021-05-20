@@ -1,8 +1,9 @@
 # Cross-Outcomes
 **Subsequent risk of stillbirth, preterm birth, and small for gestational age: A cross-outcomes analysis of adverse birth outcomes in California from 1997-2011**
+
 Authors: Shalmali Bane, Julia Simard, Elizabeth Wall-Wieler, Suzan Carmichael
 
-**Abstract **
+**Abstract**
 
 Individuals who experience an adverse birth outcome such as stillbirth, preterm birth, or small for gestational age (SGA) have an increased risk of outcome recurrence in a subsequent pregnancy. There is limited research on cross-outcome risks, i.e., given an adverse outcome in index pregnancy, the risk of a different but related adverse outcome in subsequent pregnancy. Therefore, we assessed cross-outcome risks in subsequent stillbirth, preterm birth, and SGA.
 
